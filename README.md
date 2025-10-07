@@ -16,13 +16,13 @@
 
 ## 🧩 Project Structure
 livechat/
- ┣ 📂 src/main/java/com/fizzahmajaz/livechat
- ┃ ┣ 📜 LivechatApplication.java        # Spring Boot entry point
- ┃ ┣ 📜 WebSocketConfig.java            # WebSocket configuration
- ┃ ┣ 📜 ChatMessage.java                # Model class (message data)
- ┃ ┣ 📜 ChatMessageHandler.java         # Handles sending/receiving
- ┃ ┣ 📜 Client.java                     # Console-based WebSocket client
- ┃ ┗ 📜 ConsoleColors.java              # ANSI color helper for terminal
+ ┣ 📂 src/main/java/com/fizzahmajaz/livechat <br>
+ ┃ ┣ 📜 LivechatApplication.java        # Spring Boot entry point <br>
+ ┃ ┣ 📜 WebSocketConfig.java            # WebSocket configuration <br>
+ ┃ ┣ 📜 ChatMessage.java                # Model class (message data) <br>
+ ┃ ┣ 📜 ChatMessageHandler.java         # Handles sending/receiving <br>
+ ┃ ┣ 📜 Client.java                     # Console-based WebSocket client <br>
+ ┃ ┗ 📜 ConsoleColors.java              # ANSI color helper for terminal <br>
  ┗ 📜 pom.xml                           # Maven dependencies
 
 ---
