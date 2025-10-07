@@ -84,6 +84,8 @@
 ---
 
 ## 🎨 Console Preview
+(<img width="1852" height="974" alt="Screenshot 2025-10-08 012035" src="https://github.com/user-attachments/assets/9686623a-b14b-4d82-898c-28f464482daa" />
+
 
 ---
 
