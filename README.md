@@ -5,6 +5,23 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80" />
+  <h1 align="center">💬 In Leader <span style="color:#00BFFF;">LiveChat</span> <span>▌▌▌</span></h1>
+  <p align="center"><i>Real-time console-based chat — no UI, just magic ⚡</i></p>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-%23006AFF.svg?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatApp-%23FF69B4.svg?style=for-the-badge&logo=wechat&logoColor=white" />
+</p>
+
+---
+
 ## ✨ Features
 - ⚡ Real-time chatting between multiple users  
 - 💬 Multi-user support (run multiple terminals)  
